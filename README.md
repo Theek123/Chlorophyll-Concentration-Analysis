@@ -48,7 +48,7 @@ B5 = Red-edge band
 - 2021: Noticeable decline in mean NDCI (~0.0470)
 - 2022–2024: Gradual increase in chlorophyll concentration
 
-NDCI Spatial Distribution (2021)
+*NDCI Spatial Distribution*
 
 <p align="center">
   <img src="Chlorophyll-a_BeiraLake.gif" width="450"><br>
