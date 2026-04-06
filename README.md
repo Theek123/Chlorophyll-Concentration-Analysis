@@ -29,7 +29,9 @@ Chlorophyll Concentration Analysis of Beira Lake (2016–March 2024)
 **Chlorophyll Estimation**
 - Chlorophyll concentration was estimated using the Normalized Difference Chlorophyll Index (NDCI):
 
-**$ \mathrm{NDCI} = \frac{B5 - B4}{B5 + B4} $**
+**$$
+\mathrm{NDCI} = \frac{B5 - B4}{B5 + B4}
+$$**
 
 Where:
 
