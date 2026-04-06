@@ -12,13 +12,15 @@ Chlorophyll Concentration Analysis of Beira Lake (2016–March 2024)
 - As a distinctive urban water body, Beira Lake contributes both environmental and economic value to the region and holds significant potential for waterfront development amid the rapid urbanization of Colombo. However, at present, the lake is subjected to multiple incompatible uses, including solid waste dumping and the discharge of domestic wastewater, which have contributed to its environmental degradation.
 
 ### **Data**
-- Satellite: Sentinel-2 MSI (Level-1C)
-- Time Period: 2016 – March 2024
-- Resolution: 10–20 m
 
-**Bands Used:**
-- Band 4 (Red)
-- Band 5 (Red-edge)
+| Data | Source | Description |
+|------|--------|-------------|
+| Sentinel-2 MSI (Level-1C) | [Copernicus Open Access Hub](https://browser.dataspace.copernicus.eu) | Cloud-free images 2016–March 2024 |
+| Bands | **B4 (Red), B5 (Red-edge)** | Used for NDCI calculation |
+| DEM  | [Alaska Satellite Facility](https://search.asf.alaska.edu/#/) | Elevation |
+| Lake boundary shapefile| Manually digitized | Boundary digitized manually from Sentinel-2 imagery for analysis |
+
+> **Note:** Large satellite imagery files are not included. Links to download Sentinel-2 products are provided.
 
 ## **Tools:**
 - ArcGIS Pro
