@@ -93,4 +93,5 @@ This highlights the importance of continuous monitoring and improved urban water
   [Download PDF](https://www.uda.gov.lk/attachments/dev-plans-2021-2030/beira_lake-English.pdf)
 
 Author : Theekshana Pathirana.
-BSc. in Geographical Information Science
+
+BSc. in Geographical Information Science.
