@@ -92,5 +92,5 @@ This highlights the importance of continuous monitoring and improved urban water
 - Urban Development Authority (UDA). (2022). *Beira Lake Intervention Area Development Guide Plan (2022–2031)*. Colombo, Sri Lanka.  
   [Download PDF](https://www.uda.gov.lk/attachments/dev-plans-2021-2030/beira_lake-English.pdf)
 
-Author : Theekshana Pathirana
+Author : Theekshana Pathirana.
 BSc. in Geographical Information Science
