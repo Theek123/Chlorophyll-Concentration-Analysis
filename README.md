@@ -29,7 +29,7 @@ Chlorophyll Concentration Analysis of Beira Lake (2016–March 2024)
 **Chlorophyll Estimation**
 - Chlorophyll concentration was estimated using the Normalized Difference Chlorophyll Index (NDCI):
 
-**NDCI = (B5 - B4) / (B5 + B4)**
+**$ \mathrm{NDCI} = \frac{B5 - B4}{B5 + B4} $**
 
 Where:
 
@@ -43,10 +43,13 @@ B5 = Red-edge band
 - Extraction of annual mean values
 - Time series analysis (2016–2024)
 
-## **Key Findings**
-- 2016–2020: Relatively stable chlorophyll levels
-- 2021: Noticeable decline in mean NDCI (~0.0470)
-- 2022–2024: Gradual increase in chlorophyll concentration
+## Key Findings
+
+| Year       | Trend / Observation |
+|-----------|-------------------|
+| 2016–2020 | Relatively stable chlorophyll levels; minimal variation in nutrient inputs |
+| 2021      | Noticeable decline in mean NDCI (~0.0470), likely linked to reduced anthropogenic activity during COVID-19 lockdown |
+| 2022–2024 | Gradual increase in chlorophyll concentration, suggesting renewed nutrient loading and rising eutrophication pressure |
 
 *NDCI Spatial Distribution*
 
